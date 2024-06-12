@@ -4,7 +4,9 @@ Data Collection - From kaggel .
 
 Data Cleaning - Handling Missing Values , Data Transformation .
 
-Exploratory Data Analysis (EDA) -  Calculate mean, median, mode, and standard deviation for numerical features.
+Exploratory Data Analysis (EDA) 
+                             
+                        -  Calculate mean, median, mode, and standard deviation for numerical features.
                               
                                - Analyze the distribution of genres across the dataset ,
                                 
